@@ -1,4 +1,4 @@
-# Evolution of Todo Project - Phase I Console Application
+# Todo Project - Phase I Console Based Application
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -366,3 +366,4 @@ This project is part of a spec-driven development hackathon and is intended for 
 ---
 
 *This README was generated based on the comprehensive analysis of the project's specification-driven development approach and implementation.*
+*Built by ausafulislam*
